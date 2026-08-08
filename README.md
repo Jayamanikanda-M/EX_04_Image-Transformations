@@ -112,16 +112,22 @@ plt.axis('off')
 # OUTPUT :
 Original Image :
 <img width="685" height="411" alt="image" src="https://github.com/user-attachments/assets/5ef7cb0c-f9f6-41c3-adfe-87de089bf695" />
+
 Translated Image :
 <img width="663" height="404" alt="image" src="https://github.com/user-attachments/assets/12070c32-4efe-43a7-8a7c-603a13cc9a24" />
+
 Scaled Image:
 <img width="693" height="206" alt="image" src="https://github.com/user-attachments/assets/a6177505-06c6-4db2-bf8f-4d7be17a0126" />
+
 Sheared Image :
 <img width="671" height="425" alt="image" src="https://github.com/user-attachments/assets/d806a30d-75ba-4efe-b603-7469ab5f35fd" />
+
 Reflected Image :
 <img width="659" height="410" alt="image" src="https://github.com/user-attachments/assets/203c9c89-37d1-4a20-8bce-8526f17f100b" />
+
 Rotated Image :
 <img width="686" height="415" alt="image" src="https://github.com/user-attachments/assets/3672cad6-093f-4d68-936d-239b9870a54d" />
+
 Cropped Image :
 <img width="669" height="524" alt="image" src="https://github.com/user-attachments/assets/05e978b0-a3d6-4f2a-8b51-311e715ed016" />
 
